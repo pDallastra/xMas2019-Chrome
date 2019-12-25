@@ -36,7 +36,7 @@
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
-                    <img src="../img/brady20.jpg" alt="">
+                    <img src="../img/brady20.jpg" style="transform: rotate(180deg);" alt="">
                     <p>They got some tickets for a special event in Salt Lake City. We only could enjoy the event online, and even the tickets getting sold out in minutes
                     they saved two of them so my wife and I could come with them and enjoy the event. What a wonderful time!</p>
                 </div>

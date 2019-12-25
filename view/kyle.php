@@ -25,7 +25,7 @@
                     <p>I wasn't supposed to be his companion for a couple of months, but Heavenly Father did a way to put me with him for 3 months, and that changed my life.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle20.jpg" alt="">
+                    <img src="../img/kyle20.jpg" style="transform: rotate(180deg);" alt="">
                     <p>I will never forget him not only for taking care of myself when I had to pull out my wisdom teeth, but most important, because of the people we served together in Curitiba.</p>
                 </div>
             </div>

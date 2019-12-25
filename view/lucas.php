@@ -20,14 +20,14 @@
             <h1>Lucas</h1>
             <div class="img-triple flex row center">
                 <div class="img-text flex col">
-                    <img src="../img/lucas3.jpg" alt="">
+                    <img src="../img/lucas3.jpg" style="transform: rotate(180deg);" alt="">
                     <p>We were didn't want to start our family so soon, so Amora was our child for a few months.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/lucas2.jpg" alt="">
+                    <img src="../img/lucas2.jpg" style="transform: rotate(180deg);" alt="">
                     <p>We talked to so many good couples and families, and we couldn't avoid the feeling we had to start our own journey of raising Heavenly Father's children.</p>
                 </div>
-                <div class="img-text flex col">
+                <div class="img-text-rotate-90 flex col">
                     <img src="../img/lucas1.jpg" alt="">
                     <p>And after being married for about 15 months - 13/1/2017, Lucas came and we were no longer a family of 2.</p>
                 </div>

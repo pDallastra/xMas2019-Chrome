@@ -55,7 +55,7 @@
                     <img src="../img/marriage90.jpg" alt="">
                     <p>Finally "Freedom". We were enjoying the "going wherever we want" and prepering to move to Curitiba to start our own story as a family.</p>
                 </div>
-                <div class="img-text flex col">
+                <div class="img-text-rotate-negative90 flex col">
                     <img src="../img/marriage2.jpg" alt="">
                     <p>A few months living in Curitiba, and again being able to serve the people there and grow as individuals and disciples of Christ.</p>
                 </div>

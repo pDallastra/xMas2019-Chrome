@@ -25,11 +25,11 @@
                     <img src="../img/usa10.jpg" alt="">
                     <p>Being a bigger family, we realized that we should start looking for better opportunities to provide to our little guy a better life in the future.</p>
                 </div>
-                <div class="img-text flex col">
+                <div class="img-text-rotate-negative90 flex col">
                     <img src="../img/usa20.jpg" alt="">
                     <p>After so many great people being willing to help us out, The United of States of America became a real opportunity to achieve that better life that we were dreaming.</p>
                 </div>
-                <div class="img-text flex col">
+                <div class="img-text-rotate-negative90 flex col">
                     <img src="../img/usa30.jpg" alt="">
                     <p>Lucas was only 6 months when we got here, and after two years this place has been a place of so much learning and development to us.</p>
                 </div>

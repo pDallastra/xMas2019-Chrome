@@ -20,7 +20,7 @@
                     <img src="../img/matt3.jpg" alt="">
                     <p>It was hard to find pictures of Matt. But the reason I chose this one is because that's how I see him, always surround of good people and so happy!</p>
                 </div>
-                <div class="img-text flex col center">
+                <div class="img-text-rotate-90 flex col center">
                     <img src="../img/matt1.jpg" alt="">
                     <p>He also received his brother's friend as family. He tried to help us with our kids and make them have fun.</p>
                 </div>
